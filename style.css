@@ -20,7 +20,11 @@ margin-right: ;
 margin-bottom: ;
 margin-bottom: ;
 color: azure;
+text-align: center;
 }
+
+h2{text-align: center;}
+
 
 #IMG2{
 width: 160px;
