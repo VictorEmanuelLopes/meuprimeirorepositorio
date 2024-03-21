@@ -1,65 +1,71 @@
 h1{color:rgb(0, 0, 0);
-text-align:center;
-
-}
-
-body{}
-background-color:rgba(212, 255, 202, 0.151);
-
-
-#IMG1{
-width:160px;
-height:170px ;
-margin-left; ;
-text-align:center;
-
-}
-
-h2{text-align: right;
-color: rgb(0, 0, 0);
-font-size: large; font-style: initial;}
-
-
-#IMG2{
-width: 160px;
-height: 170px;
-margin-left: ;
-max-resolution: ;
-margin-right: ;
-margin-bottom: ;
-margin-bottom: ;
-}
-
-
-#IMG3{
-width: 160px;
-height: 170px;
-margin-left; ;
-max-resolution: ;
-margin-right: ;
-margin-bottom: ;
-margin-bottom: ;
-}
-
-
-#IMG4{
-width: 160px;
-height: 170px;
-margin-left: ;
-max-resolution: ;
-margin-right: ;
-margin-bottom: ;
-margin-bottom: ;
-}
-
-
-#IMG5{
-width: 160px;
-height: 170px;
-margin-left: ;
-max-resolution: ;
-margin-right: ;
-margin-bottom: ;
-margin-bottom: ;
-} 
+    text-align:center;
+    
+    }
+    
+    body { h1{color:rgb(0, 0, 0);
+        text-align:center;
+        
+        }
+        
+        
+        #IMG1{
+        width:160px;
+        height:170px ;
+        margin-left; ;
+        text-align:center;
+        
+        }
+        
+        h2{text-align: right;
+        color: rgb(0, 0, 0);
+        font-size: large; font-style: initial;}
+        
+        
+        #IMG2{
+        width: 160px;
+        height: 170px;
+        margin-left: ;
+        max-resolution: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-bottom: ;
+        }
+        
+        
+        #IMG3{
+        width: 160px;
+        height: 170px;
+        margin-left; ;
+        max-resolution: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-bottom: ;
+        }
+        
+        
+        #IMG4{
+        width: 160px;
+        height: 170px;
+        margin-left: ;
+        max-resolution: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-bottom: ;
+        }
+        
+        
+        #IMG5{
+        width: 160px;
+        height: 170px;
+        margin-left: ;
+        max-resolution: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-bottom: ;
+        } 
+         
+    }
+    
  
+     
