@@ -1,60 +1,51 @@
- 
+body{
+    
+    
+   background-color: blue; 
+    
+    
+    h2{
+    display: flex;
+    color: rgb(0, 0, 0);
+    margin-right: 70px;}
+    
+    
+    #IMG2{
+    width: 160px;
+    height: 170px;
+    }
+    
+    
+    #IMG3{
+    width: 160px;
+    height: 170px;
+    }
+    
+    
+    #IMG4{
+    width: 160px;
+    height: 170px;
+    }
+    
+    
+    #IMG5{
+    width: 160px;
+    height: 170px;
+    } 
 
-body
-    background-color: aqua;
+
+
+
+
+
 
         
-        
-        h2{;
-        display: flex;
-        color: rgb(0, 0, 0);
-        margin-right: 70px;}
-        
-        
-        #IMG2{
-        width: 160px;
-        height: 170px;
-        margin-left: ;
-        max-resolution: ;
-        margin-right: ;
-        margin-bottom: ;
-        margin-bottom: ;
-        }
-        
-        
-        #IMG3{
-        width: 160px;
-        height: 170px;
-        margin-left; ;
-        max-resolution: ;
-        margin-right: ;
-        margin-bottom: ;
-        margin-bottom: ;
-        }
-        
-        
-        #IMG4{
-        width: 160px;
-        height: 170px;
-        margin-left: ;
-        max-resolution: ;
-        margin-right: ;
-        margin-bottom: ;
-        margin-bottom: ;
-        }
-        
-        
-        #IMG5{
-        width: 160px;
-        height: 170px;
-        margin-left: ;
-        max-resolution: ;
-        margin-right: ;
-        margin-bottom: ;
-        margin-bottom: ;
-        } 
-    
-        
     
     
-        
+        }
+
+
+
+
+
+
