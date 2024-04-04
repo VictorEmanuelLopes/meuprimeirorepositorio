@@ -1,8 +1,9 @@
 body{
     
     
-   background-color: blue; 
-    
+   background-color:burlywood; 
+   
+   h1{text-align: center;}
     
     h2{
     display: flex;
