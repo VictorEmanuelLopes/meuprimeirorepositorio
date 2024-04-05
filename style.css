@@ -51,7 +51,7 @@ body{
         }
      
         header{text-align: center;
-        color: color-mix(in srgb-linear, color burlywood, color red);
+        color: blue;
     height: auto;
     width: auto;}
 
