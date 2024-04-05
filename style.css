@@ -27,9 +27,8 @@ body{
         header{
             text-align: center;
         padding: 10x;
-            color: blue;
-    height: auto;
-    width: 90px;;}
+        background-color: blue;
+        color: white;
 
     section{
         
