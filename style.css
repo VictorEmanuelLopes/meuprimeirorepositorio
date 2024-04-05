@@ -10,34 +10,8 @@ body{
     color: rgb(0, 0, 0);
     margin-right: 70px;}
     
-    #IMG1{text-align: center;}
 
-
-
-
-
-    #IMG2{
-    width: 160px;
-    height: 170px;
-    }
-    
-    
-    #IMG3{
-    width: 160px;
-    height: 170px;
-    }
-    
-    
-    #IMG4{
-    width: 160px;
-    height: 170px;
-    }
-    
-    
-    #IMG5{
-    width: 160px;
-    height: 170px;
-    } 
+   
 
 
 
@@ -53,7 +27,44 @@ body{
         header{text-align: center;
         color: blue;
     height: auto;
-    width: auto;}
+    width: 90px;;}
+
+    section{
+        
+        
+        
+        
+        
+   #IMG1{text-align: center;
+     width: 180px;
+    height: 200px;;}
+
+
+
+
+
+    #IMG2{
+    width: 180px;
+    height: 200px;
+    }
+    
+    
+    #IMG3{
+    width: 180px;
+    height: 200px;
+    }
+    
+    
+    #IMG4{
+    width: 180px;
+    height: 200px;
+    }
+    
+    
+    #IMG5{
+    width: 180px;
+    height: 200px;
+    } }
 
 
 
