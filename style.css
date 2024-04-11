@@ -30,7 +30,6 @@ body{
             color: white;
     }
            
-    section{
         
         
         
@@ -65,9 +64,13 @@ body{
     #IMG5{
     width: 180px;
     height: 200px;
-    } }
+    } 
 
 
 
+.body{
+  text-align: center;
+  
 
+}
 
