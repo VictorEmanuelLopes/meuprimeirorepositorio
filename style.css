@@ -1,59 +1,48 @@
-body{
-    
-  text-align: center;    
-   background-color:burlywood; 
+body{ text-align: center;    
+  background-color:burlywood; 
+  
+  h1{text-align: center;}
    
-   h1{text-align: center;}
+   h2{
+   display: flex;
+   color: rgb(0, 0, 0);
+   text-align: center;}
+       
     
-    h2{
-    display: flex;
-    color: rgb(0, 0, 0);
-    text-align: center;}
-  h3{text-align: center;}
-        }
-     
-        header{ text-align: center;
-            padding: 10x;
-            background-color: blue;
-            color: white;
-    }
-           
-        
-        
-        
-        
-        
-   #IMG1{text-align: center;
-     width: 180px;
-    height: 200px;;}
-
-
-
-
-
-    #IMG2{
+   
+  #IMG1{text-align: center;
     width: 180px;
-    height: 200px;
-    }
-    
-    
-    #IMG3{
-    width: 180px;
-    height: 200px;
-    }
-    
-    
-    #IMG4{
-    width: 180px;
-    height: 200px;
-    }
-    
-    
-    #IMG5{
-    width: 180px;
-    height: 200px;
-    } 
+   height: 200px;;}
 
+
+
+
+
+   #IMG2{
+   width: 180px;
+   height: 200px;
+   }
+   
+   
+   #IMG3{
+   width: 180px;
+   height: 200px;
+   }
+   
+   
+   #IMG4{
+   width: 180px;
+   height: 200px;
+   }
+   
+   
+   #IMG5{
+   width: 180px;
+   height: 200px;
+   } 
+}
+    
+ 
 
 
 
