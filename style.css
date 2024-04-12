@@ -13,33 +13,33 @@ body{     text-align: center;
        
     
    
-  #IMG1{text-align: center;
-    width: 200px;
-   height: 220px;}
+  #IMG1{
+    width: 240px;
+   height: 350px;}
 
 
 
    #IMG2{
-   width: 200px;
-   height: 220px;
+   width: 240px;
+   height: 350px;
    }
    
    
    #IMG3{
    width: 200px;
-   height: 220px;
+   height: 350px;
    }
    
    
    #IMG4{
-   width: 200px;
-   height: 220px;
+   width: 240px;
+   height: 350px;
    }
    
    
    #IMG5{
-   width: 200px;
-   height: 220px;
+   width: 240px;
+   height: 350px;
    } 
 }
     
