@@ -1,11 +1,11 @@
 body{     text-align: center;
-  background-color:burlywood; 
+  background-color:rgb(135, 222, 174); 
   
 
    
    h2{
    display: flex;
-   color: rgb(21, 255, 40);
+   color: rgb(255, 255, 255);
    text-align: center;}
        
     
